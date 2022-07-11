@@ -1,6 +1,8 @@
 # curriculo
 usado na aula 2 de GIT
- teste ## 
+
+## para voltar para o branch principal 
+'git checkout main'
  
  ## para adicionar os arquivos
  'git add . ou git add arquivo.html'
@@ -10,4 +12,3 @@ usado na aula 2 de GIT
 
  ## para enviar para o GIT
  'git push orgin nome-da-branch (main, develop, etc)' 
- 
