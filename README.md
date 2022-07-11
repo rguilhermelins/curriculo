@@ -6,7 +6,12 @@ usado na aula 2 de GIT
  
  ## para atualizar o branch
  'git pull origin nome-da-branch'
- 
+
+---
+ agora voce altera e/ou cria arquivos conforme a solicitação do cliente e depois segue o processo abaixo
+
+---
+
  ## para adicionar os arquivos
  'git add . ou git add arquivo.html'
 
